@@ -1,0 +1,40 @@
+.dark-content {
+    background-color: #44546a;
+    color: #d6dce5;
+}
+
+.light-content {
+    background-color: #d6dce5;
+    color: #44546a;
+}
+.navbar-brand img {
+    width: 6rem;
+    height: auto;
+}
+
+#main-content {
+    min-height: calc(100vh - 120px);
+}
+
+.navbar {
+    background-color: #44546a;
+}
+
+.nav-link {
+    color: #d6dce5;
+}
+
+.proj-img {
+    height: 20rem;
+    width: auto;
+}
+
+.social {
+    height: 2rem;
+    width: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
